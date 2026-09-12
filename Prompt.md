@@ -974,7 +974,7 @@ PHASE 5 — SIMULINK
 - feedback systems
 - motor modeling
 
-PHASE 6 — EMBEDDED
+PHASE 6 — EMBEDDED 
 - Arduino
 - ADC
 - PWM
@@ -985,6 +985,91 @@ PHASE 6 — EMBEDDED
 - UART/I2C/SPI
 - Embedded C
 - eventually STM32
+And I have completed Arduoino progrsmming learning but didnt practice much like 
+To tell you whta I have covered here is the list : 
+Arduino Programming — Beginner → Intermediate 
+Master List 
+Phase 1 — C/C++ Programming Fundamentals 
+# 
+1 Variables  
+Topic 
+2 Data Types & Memory  
+3 Constants (const)  
+4 Operators  
+5 Conditions & if / else  
+6 Type Casting & Type Conversion  
+7 Basic Input/Output  
+8 switch-case  
+9 Ternary Operator ?:  
+10 Loops — for  
+11 Loops — while  
+12 Loops — do-while  
+13 break & continue  
+14 Functions  
+15 Function Parameters & Return Values  
+16 Variable Scope  
+17 Arrays  
+18 Strings & Character Arrays  
+19 Pointers — Basics  
+20 References — Basics  
+21 struct  
+22 enum  
+23 Classes & Objects — Basic C++  
+Status 
+Complete 
+Complete 
+Complete 
+Complete 
+Complete 
+Complete 
+Complete 
+Next 
+Phase 2 — Arduino/ESP32 Programming 
+# 
+Topic 
+24 Arduino Program Structure  
+25 setup() and loop()  
+26 pinMode()  
+27 Digital Input — digitalRead()  
+28 Digital Output — digitalWrite()  
+29 Pull-up / Pull-down Resistors  
+30 Active-High / Active-Low Logic  
+Status 
+# 
+Topic 
+Status 
+31 Button Debouncing  
+32 Analog Input & ADC  
+33 ADC Resolution & Voltage Conversion  
+34 PWM Fundamentals  
+35 PWM & analogWrite() / ESP32 PWM  
+36 Servo Motor Control  
+37 DC Motor Control Basics  
+38 Motor Driver Interface  
+Phase 3 — Timing & Real-Time Programming 
+# 
+39 delay()  
+40 millis()  
+41 micros()  
+Topic 
+42 Blocking vs Non-Blocking Programming  
+43 Tasks / Periodic Execution  
+44 Hardware Timers — Concept  
+45 Interrupts — Concept  
+46 attachInterrupt()  
+47 Interrupt Service Routine (ISR)  
+48 volatile  
+Status 
+Phase 4 — Communication Protocols 
+# 
+Topic 
+49 Serial Communication Concept  
+50 UART  
+51 Serial.begin()  
+52 Serial.print() / println()  
+53 Serial.read()  
+54 Serial.available()  
+Also TIMING I have completed but I didnt practice much as i have done 3 Basics Problem 
 
 PHASE 7 — ROBOTICS
 - kinematics
@@ -994,13 +1079,7 @@ PHASE 7 — ROBOTICS
 - robot control
 - eventually ROS/ROS2
 
-PHASE 8 — AI / EDGE AI
-- machine learning basics
-- feature extraction
-- anomaly detection
-- TinyML
-- Edge AI
-- intelligent robotics
+
 
 ==================================================
 WEEKLY LEARNING STRATEGY
@@ -1067,15 +1146,6 @@ Use for:
 
 2. MATLAB Cody
 Use later for coding fluency after guided problems.
-
-3. MIT OpenCourseWare
-Especially useful for:
-- Signals and Systems
-- deeper theory
-- Fourier/systems/feedback concepts
-
-4. Arduino → STM32 resources
-Use hardware learning as implementation, not endless basic Arduino experiments.
 
 5. PCB tools/resources
 Use KiCad/other suitable tools as part of a real project.
